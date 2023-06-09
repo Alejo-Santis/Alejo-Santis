@@ -8,9 +8,11 @@
 
 - 🌱 I’m currently learning **React Js, Java, SpringBoot**
 
-- 💬 Ask me about **React, Js, Html, Css, Php**
+- 💬 Ask me about **React, Js, Html, Css, Php, Java, SpringBoot**
 
 - 📫 How to reach me **alejosantismk11@gmail.com**
+
+- 📫 How to reach me **asantiscastro@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PJfJtqZdUb3oRX1xhyO46Tq7DsrJt8O9/view?usp=share_link](https://drive.google.com/file/d/1PJfJtqZdUb3oRX1xhyO46Tq7DsrJt8O9/view?usp=share_link)
 
