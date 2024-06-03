@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **asantiscastro@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PJfJtqZdUb3oRX1xhyO46Tq7DsrJt8O9/view?usp=share_link](https://drive.google.com/file/d/1PJfJtqZdUb3oRX1xhyO46Tq7DsrJt8O9/view?usp=share_link)
+- 📄 Know about my experiences <a href="(https://drive.google.com/file/d/1XYsFgIxHLeYxK2v_odF1jC86jZ_ZN4_3/view?usp=drive_link)" target="blank">CV</a>
 
 - ⚡ Fun fact **I think programming is fun**
 
