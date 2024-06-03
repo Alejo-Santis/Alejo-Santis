@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Alejandro Santis Castro 💻</h1>
-<h3 align="center">A passionate Web Developer from Colombia</h3>
+<h3 align="center">A passionate PHP Developer from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bu90dxauuug5zby1isl9olpq2qu0pelhe1d8zg6a&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejo-santis&label=Profile%20views&color=0e75b6&style=flat" alt="alejo-santis" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Js, Java, SpringBoot**
 
-- 💬 Ask me about **React, Js, Html, Css, Php, Java, SpringBoot**
+- 💬 Ask me about **PHP, Laravel, JS, Java, SpringBoot**
 
 - 📫 How to reach me **alejosantismk11@gmail.com**
 
