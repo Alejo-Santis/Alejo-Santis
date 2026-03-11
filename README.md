@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/santiscastro201" target="_blank"><img src="https://img.shields.io/twitter/follow/santiscastro201?logo=twitter&style=for-the-badge" alt="santiscastro201" /></a> </p>
 
-- 🌱 I’m currently learning **React Js, Java, SpringBoot**
+- 🌱 I’m currently learning **Svelte Js, Java, SpringBoot**
 
 - 💬 Ask me about **PHP, Laravel, JS, Java, SpringBoot**
 
